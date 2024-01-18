@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Redux Fundamentals
 
 This is a basic redux application for learning Redux fundamentals.
 
